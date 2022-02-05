@@ -12,6 +12,7 @@
 Ова е постигнато со едноставна скрипта PlayerWalk.cs, во скриптата имаме само една променлива односно брзината со која се движиме. Во функцијата Update() всушност ја менуваме позицијата со помош на формулата: 
   **transform.position + Camera.main.transform.forward * playerSpeed * Time.deltaTime;**  
 Околината ја изградив со помош на следниов пакет од модели:
+
 https://assetstore.unity.com/packages/3d/environments/3d-low-poly-village-164241
 
 Користена литература :
