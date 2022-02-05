@@ -20,7 +20,7 @@ Plugin za google vr SDK
 
 https://github.com/googlevr/gvr-unity-sdk/releases
 
-Видео со инструкции:
+Видео со инструкции
 
 https://www.youtube.com/watch?v=qZzhXHqXM-g&t=10s&ab_channel=Valem
 
