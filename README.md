@@ -25,4 +25,12 @@ https://github.com/googlevr/gvr-unity-sdk/releases
 https://www.youtube.com/watch?v=qZzhXHqXM-g&t=10s&ab_channel=Valem
 
 
+![alt text](https://github.com/Icko9/DomasniVr/blob/main/ScreenShots/slika1.png)
+![alt text](https://github.com/Icko9/DomasniVr/blob/main/ScreenShots/slika2.png)
+![alt text](https://github.com/Icko9/DomasniVr/blob/main/ScreenShots/slika%203.png)
+![alt text](https://github.com/Icko9/DomasniVr/blob/main/ScreenShots/slika%204.png)
+![alt text](https://github.com/Icko9/DomasniVr/blob/main/ScreenShots/slika%205.png)
+![alt text](https://github.com/Icko9/DomasniVr/blob/main/ScreenShots/slika%206.png)
+![alt text](https://github.com/Icko9/DomasniVr/blob/main/ScreenShots/slika%207.png)
+
   
